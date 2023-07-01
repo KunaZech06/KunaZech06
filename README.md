@@ -6,36 +6,75 @@
 <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="600px" width=100%/>
 <hr/>
 
-Welcome to my GitHub profile! I'm a Computer Science major with a minor in Mathematics, and a full-stack developer proficient in HTML, JavaScript, and CSS. But Python? That's my first love. I believe Python's simplicity and robustness make it an exceptional language for various programming needs.
-Not only do I develop web applications, but I'm also deeply passionate about Cybersecurity. I'm an enthusiast in the field, constantly learning and growing my knowledge to develop secure applications and contribute to the safety of our digital world.
-I'm currently on my journey to break into the world of cybersecurity, aspiring to combine my love for coding and my passion for certain practices to create robust, secure applications. I'm excited about the endless possibilities and the continuous learning that this field offers.
-In addition to developing and security, I'm always open to collaborating on projects and innovative/disruptive ideas. Feel free to contact me if you want to do something amazing together.
+Welcome to my GitHub profile! 
 
-Thank you for visiting my profile, Happy coding! 🚀
+As a Computer Science major and Mathematics minor, I've honed my skills as a full-stack developer, mastering HTML, JavaScript, and CSS. But it's Python, with its simplicity and robustness, that truly sparks my passion.
+
+Aside from web development, my fascination for cybersecurity propels me to constantly learn and strive for a safer digital world. Currently, I'm preparing to earn my Pentest+ certification and working towards becoming a Certified Ethical Hacker, amplifying my commitment to secure coding practices.
+
+Cybersecurity isn't just a career path for me - it's an exciting journey filled with endless possibilities and continuous learning. I'm eager to blend my love for programming with my enthusiasm for secure practices to build robust and secure applications.
+
+In the spirit of collaboration and innovation, I welcome opportunities to work on exciting projects. If you share a vision for creating something amazing, feel free to reach out! 
+
+Thanks for visiting my profile, Happy coding! 🚀
+
 <hr/>
 
-### 🛠️ Language and Tools
- <br/>
+## 🛠️ Languages
+<table border="0">
+  <tr>
+    <td align="center"><img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-768x854.png" width="100"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="100"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"></td>
+  </tr>
+</table>
 
- <img align="left" alt="Python Image" width="100px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-768x854.png"/>
- <img align="left" alt="Html5 Image" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
- <img align="left" alt="CSS Image" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
- <img align="left" alt="javaScript Image" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img align="left" alt="React Image" width="100px" src="https://www.sportsengineers.com/wp-content/uploads/2015/05/react-logo-570x570.png"/>
- <img align="left" alt="NodeJS Image" width="100px" src="https://www.mindrops.com/images/nodejs-image.png"/>
- <img align="left" alt="CSS Tailwind Image" width="100px" src="https://mythinkpond.com/img/logo/tailwindcss-logo.png"/>
- <img alt="Uipath Image" width="100px" src="http://infospokeai.com/images/uipath.png"/>
- <hr/>
+## 📚 Frameworks/Libraries
+<table border="0">
+ <tr>
+    <td align="center"><img src="https://www.sportsengineers.com/wp-content/uploads/2015/05/react-logo-570x570.png" width="100"></td>
+    <td align="center"><img src="https://mythinkpond.com/img/logo/tailwindcss-logo.png" width="100"></td>
+    <td align="center"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" width="100"></td>
+ </tr>
+</table>
 
- 
-<img align="left" alt="Kali Linux Image" width="100px" src="https://www.unixmen.com/wp-content/uploads/2015/11/Kali_Linux_Logo.png"/>
- <img align="left" alt="Nmap Image" width="100px" src="https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2020/04/nmap-logo-256x256-1.png"/>
- <img align="left" alt="Wireshark Image" width="100px" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/wireshark-icon.png"/>
- <img align="left" alt="Bootstrap Image" width="100px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"/>
- <img align="left" alt="postGRE Image" width="100px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1489695931/postgresql.png"/>
- <img align="left" alt="NodeJS Image" width="100px" src="https://www.mindrops.com/images/nodejs-image.png"/>
- <img align="left" alt="CSS Tailwind Image" width="100px" src="https://mythinkpond.com/img/logo/tailwindcss-logo.png"/>
- <img align="left" alt="Uipath Image" width="100px" src="http://infospokeai.com/images/uipath.png"/>
+## 🧰 Tools
+<table border="0">
+ <tr>
+    <td align="center"><img src="http://infospokeai.com/images/uipath.png" width="100"></td>
+    <td align="center"><img src="https://www.unixmen.com/wp-content/uploads/2015/11/Kali_Linux_Logo.png" width="100"></td>
+    <td align="center"><img src="https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2020/04/nmap-logo-256x256-1.png" width="100"></td>
+    <td align="center"><img src="https://tenten.vn/help/wp-content/uploads/2022/01/PostgreSQL9.png" width="100"></td>
+    <td align="center"><img src="https://www.mindrops.com/images/nodejs-image.png" width="100"></td>
+    <td align="center"><img src="https://clay-atlas.com/wp-content/uploads/2020/01/Linux.png" width="100"></td>
+    <td align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="100"></td>
+    <td align="center"><img src="https://img.icons8.com/color/452/kubernetes.png" width="100"></td>
+    <td align="center"><img src="https://logos-download.com/wp-content/uploads/2016/09/Docker_logo.png" width="100"></td>
+ </tr>
+</table>
+
+<hr/>
+
+## 🏆 Certifications
+<table border="0">
+ <tr>
+    <td align="center"><img src="URL_TO_CERTIFICATION_1_IMAGE" width="100"></td>
+    <td align="center"><img src="URL_TO_CERTIFICATION_2_IMAGE" width="100"></td>
+    <td align="center"><img src="URL_TO_CERTIFICATION_3_IMAGE" width="100"></td>
+ </tr>
+</table>
+
+## 📚 Certifications In Progress
+<table border="0">
+ <tr>
+    <td align="center"><img src="URL_TO_CERTIFICATION_1_IMAGE" width="100"></td>
+    <td align="center"><img src="URL_TO_CERTIFICATION_2_IMAGE" width="100"></td>
+    <td align="center"><img src="URL_TO_CERTIFICATION_3_IMAGE" width="100"></td>
+ </tr>
+</table>
+
+
 
   
 
