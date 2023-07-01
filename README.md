@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
 <h1>😏 Kuna Zechariah Sheelan</h1> 
 <h3>Digital Craftsman (Developer/Cyber Security Enthusiast/ IT Professional)</h3>
 
