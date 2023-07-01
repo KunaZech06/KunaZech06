@@ -36,6 +36,8 @@ Thanks for visiting my profile, Happy coding! 🚀
     <td align="center"><img src="https://www.sportsengineers.com/wp-content/uploads/2015/05/react-logo-570x570.png" width="100"></td>
     <td align="center"><img src="https://mythinkpond.com/img/logo/tailwindcss-logo.png" width="100"></td>
     <td align="center"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" width="100"></td>
+    <td align="center"><img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" width="100"></td>
+    <td align="center"><img src="https://sdtimes.com/wp-content/uploads/2018/02/Angular_full_color_logo.svg_-490x490.png" width="100"></td>   
  </tr>
 </table>
 
@@ -65,6 +67,7 @@ Thanks for visiting my profile, Happy coding! 🚀
 ## 📚 Certifications In Progress
 <ul>
   <li>CCNA</li>
+  <li>CompTIA Security+</li>
   <li>CompTIA Pentest+</li>
 </ul>
 
