@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>😏 Kuna Zechariah Sheelan</h1> 
+<h3>Digital Craftsman (Developer/Cyber Security Enthusiast/ IT Professional)</h3>
 
 <!--
 **KunaZech06/KunaZech06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="200px" width="200px"/>
