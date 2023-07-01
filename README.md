@@ -67,6 +67,7 @@ Thanks for visiting my profile, Happy coding! 🚀
 ## 📚 Certifications In Progress
 <ul>
   <li>CCNA</li>
+  <li>Google Cybersecurity Professional Certificate</li>
   <li>CompTIA Security+</li>
   <li>CompTIA Pentest+</li>
 </ul>
