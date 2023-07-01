@@ -57,22 +57,16 @@ Thanks for visiting my profile, Happy coding! 🚀
 <hr/>
 
 ## 🏆 Certifications
-<table border="0">
- <tr>
-    <td align="center"><img src="URL_TO_CERTIFICATION_1_IMAGE" width="100"></td>
-    <td align="center"><img src="URL_TO_CERTIFICATION_2_IMAGE" width="100"></td>
-    <td align="center"><img src="URL_TO_CERTIFICATION_3_IMAGE" width="100"></td>
- </tr>
-</table>
+<ul>
+  <li>UiPath Certified Professional Advanced RPA Developer</li>
+  <li>CompTIA A+</li>
+</ul>
 
 ## 📚 Certifications In Progress
-<table border="0">
- <tr>
-    <td align="center"><img src="URL_TO_CERTIFICATION_1_IMAGE" width="100"></td>
-    <td align="center"><img src="URL_TO_CERTIFICATION_2_IMAGE" width="100"></td>
-    <td align="center"><img src="URL_TO_CERTIFICATION_3_IMAGE" width="100"></td>
- </tr>
-</table>
+<ul>
+  <li>CCNA</li>
+  <li>CompTIA Pentest+</li>
+</ul>
 
 
 
