@@ -59,7 +59,7 @@ Thanks for visiting my profile, Happy coding! 🚀
 ## 🏆 Certifications
 <ul>
   <li>UiPath Certified Professional Advanced RPA Developer</li>
-  <td align="center"><img src="https://home.pearsonvue.com/getattachment/Clients/UiPath/UiARD-Badge.png.aspx?lang=en-US" width="100"></td>
+  <td align="center"><img src="https://home.pearsonvue.com/getattachment/Clients/UiPath/UiARD-Badge.png.aspx?lang=en-US" width="110"></td>
   <br/>
   <li>CompTIA A+</li>
   <td align="center"><img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="100"></td>
@@ -67,10 +67,10 @@ Thanks for visiting my profile, Happy coding! 🚀
 
 ## 📚 Certifications In Progress
 <ul>
-  <li>CCNA</li>
+  <li>CCNA (SEPT 23)</li>
   <li>Google Cybersecurity Professional Certificate</li>
-  <li>CompTIA Security+</li>
-  <li>CompTIA Pentest+</li>
+  <li>CompTIA Security+ (SEPT 23)</li>
+  <li>CompTIA Pentest+ (NOV 23)</li>
 </ul>
 
 
