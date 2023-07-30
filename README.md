@@ -59,10 +59,12 @@ Thanks for visiting my profile, Happy coding! 🚀
 ## 🏆 Certifications
 <ul>
   <li>UiPath Certified Professional Advanced RPA Developer</li>
-  <td align="center"><img src="https://home.pearsonvue.com/getattachment/Clients/UiPath/UiARD-Badge.png.aspx?lang=en-US" width="110"></td>
+  <br/>
+  <td align="center"><img src="https://home.pearsonvue.com/getattachment/Clients/UiPath/UiARD-Badge.png.aspx?lang=en-US" width="100"></td>
   <br/>
   <li>CompTIA A+</li>
-  <td align="center"><img src="https://www.examcollection.co/design/img/cert/comptia-a-plus.png" width="100"></td>
+  <br/>
+  <td align="center"><img src="https://uwosh.edu/fdl/wp-content/uploads/sites/130/2021/04/comptia-aplus-logo-300x254-1.png" width="100"></td>
 </ul>
 
 ## 📚 Certifications In Progress
