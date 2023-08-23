@@ -20,42 +20,6 @@ Thanks for visiting my profile, Happy coding! 🚀
 
 <hr/>
 
-## 🛠️ Languages
-<table border="0">
-  <tr>
-    <td align="center"><img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-768x854.png" width="100"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="100"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"></td>
-  </tr>
-</table>
-
-## 📚 Frameworks/Libraries
-<table border="0">
- <tr>
-    <td align="center"><img src="https://www.sportsengineers.com/wp-content/uploads/2015/05/react-logo-570x570.png" width="100"></td>
-    <td align="center"><img src="https://mythinkpond.com/img/logo/tailwindcss-logo.png" width="100"></td>
-    <td align="center"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" width="100"></td>
-    <td align="center"><img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" width="100"></td>
-   
- </tr>
-</table>
-
-## 🧰 Tools
-<table border="0">
- <tr>
-    <td align="center"><img src="http://infospokeai.com/images/uipath.png" width="100"></td>
-    <td align="center"><img src="https://www.unixmen.com/wp-content/uploads/2015/11/Kali_Linux_Logo.png" width="100"></td>
-    <td align="center"><img src="https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2020/04/nmap-logo-256x256-1.png" width="100"></td>
-    <td align="center"><img src="https://tenten.vn/help/wp-content/uploads/2022/01/PostgreSQL9.png" width="100"></td>
-    <td align="center"><img src="https://clay-atlas.com/wp-content/uploads/2020/01/Linux.png" width="100"></td>
-    <td align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="100"></td>
-   <td align="center"><img src="http://phil.lavin.me.uk/wp-content/uploads/2012/03/wireshark.png" width="100"></td>
- </tr>
-</table>
-
-<hr/>
-
 ## 🏆 Certifications
 <ul>
   <li>UiPath Certified Professional Advanced RPA Developer</li>
@@ -70,9 +34,8 @@ Thanks for visiting my profile, Happy coding! 🚀
 ## 📚 Certifications In Progress
 <ul>
   <li>CCNA (SEPT 23)</li>
-  <li>Google Cybersecurity Professional Certificate</li>
-  <li>CompTIA Security+ (SEPT 23)</li>
-  <li>CompTIA Pentest+ (NOV 23)</li>
+  <li>CompTIA Security+</li>
+  <li>CompTIA Pentest+ (Jan 24)</li>
 </ul>
 
 
