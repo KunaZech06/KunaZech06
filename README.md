@@ -29,6 +29,9 @@ Thanks for visiting my profile, Happy coding! 🚀
   <li>CompTIA A+</li>
   <br/>
   <td align="center"><img src="https://uwosh.edu/fdl/wp-content/uploads/sites/130/2021/04/comptia-aplus-logo-300x254-1.png" width="100"></td>
+  <li>CompTIA Security+</li>
+  <br/>
+  <td align="center"><img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full" width="100"></td>
 </ul>
 
 ## 📚 Certifications In Progress
