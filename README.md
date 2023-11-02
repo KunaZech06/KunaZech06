@@ -36,8 +36,8 @@ Thanks for visiting my profile, Happy coding! 🚀
 
 ## 📚 Certifications In Progress
 <ul>
-  <li>CCNA (SEPT 23)</li>
-  <li>CompTIA Security+</li>
+  <li>SOC Blue Team 1 <li>
+  <li>SOC 1 (TryHackMe) <li>
   <li>CompTIA Pentest+ (Jan 24)</li>
 </ul>
 
